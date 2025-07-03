@@ -95,28 +95,33 @@ Tables are created automatically if they don't exist at runtime
 
 ## 📌 How to Run
 
-1. Clone the repository:
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/hospital-management-system.git
+   cd hospital-management-system
+   ```
 
-```bash
-git clone https://github.com/yourusername/hospital-management-system.git
-cd hospital-management-system
+2. **Run the main program:**
+   ```bash
+   python main.py
+   ```
 
-2. Run the main program:
+3. **Usage Instructions:**
+   - Register a new user.
+   - Log in with your credentials.
+   - Start managing hospital data (patients, doctors, appointments, billing, etc.).
 
-```bash
-python main.py
+---
 
-3.Register a user, log in, and start managing hospital data.
+## 🎯 Future Improvements
+
+- [ ] Add a GUI using **Tkinter** or **PyQt**
+- [ ] Export patient reports to **PDF** or **Excel**
+- [ ] Improve **data validation** and **exception handling**
+- [ ] Build **Flask**-based web dashboards for each user role
 
 ---
 
-## 🎯  Future Improvements
-- Add a GUI using Tkinter or PyQt
-- Export patient reports to PDF/Excel
-- Improve data validation and exception handling
-- Build web dashboards using Flask for each user role
-
----
 ## 🧑‍💻 Developed By
 
-- Vamshi
+**Vamshi**
