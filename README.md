@@ -5,7 +5,10 @@ A terminal-based Hospital Management System built using **Python** and **SQLite*
 > This was developed as part of the **DBMS Assignment** for 21AIE303.
 
 ---
+![image](https://github.com/user-attachments/assets/88748da8-c117-4cb0-b674-e8ea11bfc1b0)
 
+- If the image is not clear refer (HMS.drawio)
+---
 ## 💡 Key Features
 
 - 👥 Role-based access for **Manager**, **Doctor**, **Patient**, **Receptionist**, and **Nurse**
